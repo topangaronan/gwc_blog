@@ -25,7 +25,7 @@ SECRET_KEY = 'je95_ni@m9emlnw*%kbe(%-je9$_l995!m!cu@=0p+i#uhm7)1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'topanga@pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'topanga.pythonanywhere.com']
 
 
 # Application definition
